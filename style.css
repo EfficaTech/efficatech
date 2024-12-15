@@ -207,7 +207,7 @@ p {
 
 /* haader title */
 .header-title {
-    background: linear-gradient(rgba(2, 29, 56, 0.84), rgba(2, 29, 56, 0.98)), url("../images/header.jpg");
+    background: linear-gradient(rgba(2, 29, 56, 0.84), rgba(2, 29, 56, 0.98)), url("../header.jpg");
     background-position-x: 0%, 0%;
     background-position-y: 0%, 0%;
     background-attachment: scroll, scroll;
